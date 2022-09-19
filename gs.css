@@ -53,9 +53,12 @@ table, th, td {
     border: 1.5px solid grey;
     border-collapse: collapse;
     text-align: left;
+    color: purple;
+    
     
   }
   tr:nth-child(odd) {
     background-color: #f2f2f5;
     margin-left:auto;
+
   }
