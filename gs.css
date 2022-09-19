@@ -49,3 +49,13 @@
     font-family: 'Times New Roman', Times, serif;
     color: green; 
 }
+table, th, td {
+    border: 1.5px solid grey;
+    border-collapse: collapse;
+    text-align: left;
+    
+  }
+  tr:nth-child(odd) {
+    background-color: #f2f2f5;
+    margin-left:auto;
+  }
