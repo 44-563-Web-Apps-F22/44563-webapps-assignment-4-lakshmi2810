@@ -11,7 +11,8 @@
 .direction{
     font-style: italic;
     font-size: medium;
-    background-color: blanchedalmond;
+    background-color: peachpuff;
+    color:green;
 }
 
 .direction:hover{
