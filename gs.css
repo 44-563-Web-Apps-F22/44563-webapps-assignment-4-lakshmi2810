@@ -1,0 +1,50 @@
+.speech{
+  font-style: italic;
+  font-size: medium;
+  color:blue;
+}
+.song{
+    font-style: initial;
+    font-size: medium;
+    color:blue;
+}
+.direction{
+    font-style: italic;
+    font-size: medium;
+    background-color: blanchedalmond;
+}
+
+.direction:hover{
+    color: crimson;
+    background-color: aqua;
+}
+.name{
+    font-style: italic;
+    font-size: medium;
+    color:blue;
+}
+.ROB{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+.DES{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+.MAR{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+.ROD{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+.BOTH{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: green; 
+}
