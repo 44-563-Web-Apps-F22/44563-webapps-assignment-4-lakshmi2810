@@ -4,7 +4,7 @@
   color:black;
 }
 .song{
-    font-style: initial;
+    font-style: italic;
     font-size: medium;
     color:black;
 }
@@ -22,7 +22,7 @@
 .name{
     font-style: italic;
     font-size: medium;
-    color:blue;
+    color:black;
 }
 .ROB{
     font-style: italic;
