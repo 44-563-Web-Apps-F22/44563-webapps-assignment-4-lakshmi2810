@@ -1,18 +1,18 @@
 .speech{
   font-style: italic;
   font-size: medium;
-  color:blue;
+  color:black;
 }
 .song{
     font-style: initial;
     font-size: medium;
-    color:forestgreen;
+    color:black;
 }
 .direction{
     font-style: italic;
     font-size: medium;
     background-color: peachpuff;
-    color:green;
+    color:black;
 }
 
 .direction:hover{
