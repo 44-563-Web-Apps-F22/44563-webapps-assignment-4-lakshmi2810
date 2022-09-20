@@ -6,7 +6,7 @@
 .song{
     font-style: initial;
     font-size: medium;
-    color:blue;
+    color:forestgreen;
 }
 .direction{
     font-style: italic;
@@ -29,15 +29,32 @@
     font-family: 'Times New Roman', Times, serif;
     color: darkblue;
 }
+.ROB:hover{
+    color: crimson;
+    background-color: aqua;
+    border: solid 2px;
+}
 .DES{
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
     color: darkblue;
 }
+.DES:hover{
+    color: crimson;
+    background-color: aqua;
+    border: solid 2px;
+    filter: blur(1px);
+}
 .MAR{
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
     color: darkblue;
+}
+.MAR:hover{
+    color: crimson;
+    background-color: aqua;
+    border: solid 2px;
+    filter: blur(1px);
 }
 .ROD{
     font-style: italic;
@@ -52,7 +69,7 @@
 table, th, td {
     border: 1.5px solid grey;
     border-collapse: collapse;
-    text-align: left;
+    text-align: center;
     color: purple;
     
     
