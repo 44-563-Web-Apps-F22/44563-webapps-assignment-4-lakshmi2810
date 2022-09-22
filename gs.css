@@ -79,3 +79,28 @@ table, th, td {
     margin-left:auto;
 
   }
+  .navigationbar-horizontal {
+  
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    color:blanchedalmond;
+}
+
+ul.navigationbar-horizontal li {
+    float:left; 
+    color:beige;
+    background-color:blue;
+}
+    
+.navigationbar-horizontal a {
+    padding: 15px;
+    display:block;
+    color: rosybrown;
+}
+
+.navigationbar-horizontal a:hover {  
+    
+    color:whitesmoke;
+    background-color:green;
+}
